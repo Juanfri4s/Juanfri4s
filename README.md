@@ -1,10 +1,9 @@
-👋Bienvenido a mi Repositorio soy Juan
-Sobre Mí
+-👋Bienvenido a mi Repositorio soy Juan
+-Sobre Mí
 ¡Hola! Soy un apasionado del desarrollo de software con 19 años. Actualmente, estoy estudiando desarrollo de software y realizando un curso sobre programación. Tengo un título secundario en Bachiller en Informática, lo que me ha dado una base sólida en tecnologías y lenguajes de programación.
 
-Lo que Sé
+-Lo que Sé
 A lo largo de mi camino, he adquirido conocimientos en varios lenguajes y herramientas:
-
 Python: Desarrollo de scripts y automatización.
 HTML, CSS y JavaScript: Creación de sitios web interactivos y dinámicos.
 MySQL & Workbench: Gestión y modelado de bases de datos.
@@ -21,7 +20,7 @@ PHP: Algunos ejercicios y proyectos básicos en PHP.
 Objetivo
 Este repositorio sirve como un portafolio de mi aprendizaje continuo.
 
-Contacto
+-Contacto
 Si deseas saber más sobre mí o mis proyectos, puedes contactarme en:
 GitHub: Juanffri4s
 Email: juanfrias908@gmail.com
