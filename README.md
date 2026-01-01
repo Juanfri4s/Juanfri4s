@@ -32,4 +32,3 @@ Si deseas saber más sobre mí o mis proyectos, puedes contactarme en:
 
 ---
 
-Este formato debería mantener el estilo y la estructura cuando lo subas a GitHub. ¡Espero que te guste!
